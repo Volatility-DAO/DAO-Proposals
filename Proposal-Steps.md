@@ -10,7 +10,7 @@ Proposals that fail any of these steps are considered Failed.
 
 ## Step 1 - Idea
 
-Anyone can publicly post an idea that they have for a proposal on the [Volatilty Protocol Forum](forum.volatilty.com).This could be changes to rewards, a volatility methodology, or etc. The purpose of an idea is to elicit lots of feedback. Therefore, it’s good practice to do the following:
+Anyone can publicly post an idea that they have for a proposal on the [Volatilty Protocol Forum](forum.volatilty.com). This could be changes to rewards, a volatility methodology, or etc. The purpose of an idea is to elicit lots of feedback. Therefore, it’s good practice to do the following:
 
 1. Tag your post with [IDEA]. Both in the title and with the tag.
 2. Give your post the appropriate categories (e.g. Governance DAO or Governance PIP).
