@@ -14,7 +14,7 @@ All sections of this template are required. You can add more sections if necessa
 
 ## Motivation
 
-## Specification
+## Specification or Details
 
 
 
