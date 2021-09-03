@@ -7,7 +7,7 @@ All sections of this template are required. You can add more sections if necessa
 | Current Status | CHOOSE_ONE Proposal(Draft, Final Comments, Dropped), Community Call & Final Merge, Voting, Approved, Failed|
 | Author | AUTHORS_NAME |
 | Date Created | DATE_CREATED |
-| Forum Link | [FORUM_LINK](forum.volatility.com) |
+| Forum Link | [FORUM_LINK](https://forum.volatility.com/) |
 | Simple Summary | 1-2_Sentences|
 
 ## Abstract
