@@ -1,6 +1,5 @@
 # Proposal 3
 
-All sections of this template are required. You can add more sections if necessary.
 
 | Proposal 3 | Returning to Voting on Rewards and Reverting the DAO Allocation |
 | --- | ----------- |
