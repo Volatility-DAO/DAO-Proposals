@@ -29,9 +29,10 @@ Part C - Part D will only be voted on if Part B passes.
 Part E - Part F will only be voted on if Part D passes.
 
 **Part A: Should we return DAO Allocation to Community Rewards?** YES or NO
-A YES vote on Part A will return the 25% of weekly rewards currently allocated to the DAO back to Community Rewards. A NO vote on Part A will leave the 25% of weekly rewards going toward the DAO.
+A YES vote on Part A means that none of the weekly community tokens will be set aside for later use, all will be allocated for use for rewards. A NO vote on Part A will leave 25% of the weekly community tokens being set aside for future use.
 
 **Part B: Should we return to regular reward voting to set the reward allocations for SLP and Staked VOL?** YES or NO
+A YES vote means that the reward amounds for SLP and Staked VOL will be set by quadratic community votes. A NO vote means that SLP and Staked VOL reward %s will remain as they are now.
 
 *Only if Part B passes:*
 **Part C: What frequency should the rewards vote be?**
