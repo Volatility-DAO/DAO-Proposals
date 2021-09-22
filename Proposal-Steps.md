@@ -45,7 +45,7 @@ Community Calls for the DAO currently happen weekly on Tuesdays and Fridays at 1
 
 ## Step 4 - Voting
 
-Text from the final merge can be put on SnapShot for voting by token holders. SnapShot votes must begin on Tuesdays between 23:00-23:59 UTC. Any VOL token holder with 500 tokens can initiate the Final Merge as a proposal on SnapShot. SnapShot proposals must be live for at least 72 hours.
+Text from the final merge can be put on SnapShot for voting by token holders. Any VOL token holder with 1,000 tokens can initiate the Final Merge as a proposal on SnapShot. SnapShot proposals must be live for at least 72 hours and must be publicised in the Discord announcements channel.
 
 ## Step 5 - Approved
 
