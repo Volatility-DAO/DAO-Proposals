@@ -1,4 +1,9 @@
 # Proposals
+
+**THIS REPO IS NOW DEPRECATED AND IS SCHEDULED TO BE DELETED ON JUNE 1, 2022.**
+
+**Please visit the [PIPs Repo](https://github.com/Volatility-DAO/PIPS) for all governance proposals.**
+
 This is a repository for Volatility Protocol DAO proposals.
 
 To contribute to this repo or to submit a proposal take the following steps:
