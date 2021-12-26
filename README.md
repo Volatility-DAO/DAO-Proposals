@@ -23,3 +23,4 @@ To contribute to this repo or to submit a proposal take the following steps:
 | Proposal_01 | [New reward allocation vote proposal](https://github.com/KevinVitale/DAO-Proposals/commit/c59504282a2f9729bd42748a5a35e523c2d9f852)| Draft |
 |Proposal_02 | [Volatility DAO Proposal for Interim Founding Council](https://github.com/Volatility-DAO/DAO-Proposals/commit/8dd8428ad29e82ac9740a4e5796401452884a1fd) | Draft
 |Proposal_03 | [Returning to Voting on Rewards and Reverting the DAO Allocation](https://github.com/Volatility-DAO/DAO-Proposals/pull/5/commits/c6b4b6620d21bb0ebb7167cb581e6dff5ceb14ba) | Final Comments
+|Proposal_04 | [Volatility DAO Community Awareness / Jumpstart Campaign](https://github.com/tapeth/DAO-Proposals/blob/Proposal-4/Proposal_4.md) | Draft
